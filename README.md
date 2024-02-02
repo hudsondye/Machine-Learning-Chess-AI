@@ -2,6 +2,8 @@ Hi There! <br>
 
 This is my first machine learning project focusing on creating a chess engine. <br>
 
+If playing, I would recommend not using depth > 5 as it still takes a while.
+
 Dependencies: <br>
-pygame <br>
-scikit-learn <br>
+chess (Python Chess Library) <br>
+random <br>
