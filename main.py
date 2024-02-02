@@ -1,4 +1,4 @@
-import engine as ce
+import chessbot as ce
 import chess as ch
 
 class Main:
